@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="jable" tvg-id="Jable-1综合" tvg-logo="https://assets-cdn.jable.tv/assets/icon/favicon-32x32.png",Jable综合
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws
+#EXTINF:-1 group-title="通野未帆" tvg-id="Jable-SAME-114" tvg-logo="https://assets-cdn.jable.tv/assets/icon/favicon-16x16.png",SAME-114
+https://hot-box-gen.mushroomtrack.com/hls/MZlwXGO_4lZoJy35J13HjQ/1720699115/42000/42794/42794.m3u8
