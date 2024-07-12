@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="通野未帆" tvg-id="jable.tv/videos/same-114@240711" tvg-logo="https://assets-cdn.jable.tv/assets/icon/favicon-16x16.png",SAME-114-240711
+#EXTINF:-1 group-title="通野未帆" tvg-name="SAME-114" tvg-id="jable.tv/videos/same-114@240711" tvg-logo="https://assets-cdn.jable.tv/assets/icon/favicon-16x16.png",SAME-114-240711
 https://hot-box-gen.mushroomtrack.com/hls/MZlwXGO_4lZoJy35J13HjQ/1720699115/42000/42794/42794.m3u8
-#EXTINF:-1 group-title="通野未帆" tvg-id="jable.tv/videos/same-114@240712" tvg-logo="https://assets-cdn.jable.tv/assets/icon/favicon-16x16.png",SAME-114-240712
+#EXTINF:-1 group-title="通野未帆" tvg-name="SAME-114" tvg-id="jable.tv/videos/same-114@240712" tvg-logo="https://assets-cdn.jable.tv/assets/icon/favicon-16x16.png",SAME-114-240712
 https://anono-cloneing.mushroomtrack.com/hls/0DpRKCr-yXjBqlMeaFM29w/1720776131/42000/42794/42794.m3u8
 
-#EXTINF:-1 group-title="岬奈奈美" tvg-id="jable.tv/videos/ipx-568@240712" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/11000/11920/preview.jpg",ipx-568-240712
+#EXTINF:-1 group-title="岬奈奈美" tvg-name="Be1 Alt" tvg-id="jable.tv/videos/ipx-568@240712" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/11000/11920/320x180/1.jpg",ipx-568-240712
 https://ap-drop-monst.mushroomtrack.com/bcdn_token=mKCx5N-uMdEHZ8zh3a2672vFCibqE-wlxaS2OYzZ9sc&expires=1720772858&token_path=%2Fvod%2F/vod/11000/11920/11920.m3u8
 
